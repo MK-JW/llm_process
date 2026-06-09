@@ -1,0 +1,8 @@
+{
+  "corpus_path": "D:\\Desktop\\llm_project\\clean_sentencepiece\\wiki_zh_clean.txt",
+  "spm_model": "D:\\Desktop\\llm_project\\clean_sentencepiece\\chinese_wiki_spm_bpe.model",
+  "docs_seen": 61,
+  "tokens": 200000,
+  "dtype": "uint16",
+  "seconds": 0.24
+}
